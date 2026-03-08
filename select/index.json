@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ルール・ザ・ワールド",
+  "base_artist": "ティアーズ・フォー・フィアーズ",
+  "createdAt": "2026-03-08T09:35:32.193609Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "has_synced": false,
+      "path": "select/pl_01_Everybody_Wants_To_Rule_The_World_Tears_For_Fears.txt"
+    }
+  ]
+}
